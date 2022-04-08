@@ -25,6 +25,44 @@
   --discord-twitch: 89, 54, 149;
   --discord-xbox: 16, 124, 16;
   --version: "Frosted Glass 2.0.12";
+  
+  
+  
+  
+  
+  --background-image: url('https://cdn.discordapp.com/attachments/847761610063216642/959926493365039145/FL4YUr9XwAkd2fp.jpg');
+  --background-image-blur: 4px;
+  --background-image-size: cover;
+  --background-image-position: left;
+  --popout-modal-image: url('https://cdn.discordapp.com/attachments/915241300914212884/961972347928215623/image0.jpg');
+  --popout-modal-blur: 0px;
+  --popout-modal-size: cover;
+  --popout-modal-position: top;
+  --home-button-image: url('https://cdn.discordapp.com/attachments/847761610063216642/960250365218029639/unknown.png');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.6;
+  --left-brightness: 0.7;
+  --middle-brightness: 0.6;
+  --right-brightness: 0.3;
+  --popout-modal-brightness: 0.75;
+  --gradient-primary: 61,78,255;
+  --gradient-secondary: 75,0,110;
+  --gradient-direction: 135deg;
+  --tint-colour: 68,38,121;
+  --tint-brightness: 0.3;
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --scrollbar-colour: #FFFFFF4D;
+  --link-colour: #00b0f4;
+  --show-gift-gif-buttons: none;
+  --update-notice-1: none;
+
+  --small-user-popout-background-image: url('https://cdn.discordapp.com/attachments/847761610063216642/959569813758439494/FAPFiplXIAE2LNo.jpg');
+  --small-user-popout-background-transparency: #000000aa;
+  --small-user-popout-background-image-position: top;
+
+  --member-listing-role-color: #cccceeff;
 }
 
 .theme-dark {
