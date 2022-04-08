@@ -259,7 +259,7 @@ textarea {
 #app-mount .root-1gCeng:not(.fullscreenOnMobile-1bD22y)::before,
 #app-mount .root-8LYsGj::before,
 #app-mount .subMenuContext-2n_9YM .scrollerWrap-2lJEkd::before,
-#app-mount [class*=userPopout][aria-modal=true]::before,
+/*#app-mount [class*=userPopout][aria-modal=true]::before,*/
 #app-mount section.positionContainer-3unAXC .drawerSizingWrapper-27qFHb::before,
 #app-mount .quickswitcher-pKcM9U::before,
 #app-mount .root-1gCeng.wrapper-2ZbzR9::before,
