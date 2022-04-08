@@ -222,7 +222,7 @@ textarea {
 }
 #app-mount [role=menu],
 #app-mount .autocompleteInner-y1mjDl,
-#app-mount .container-2McqkF,
+
 #app-mount .container-enaOkj,
 #app-mount .container-8Futzw,
 #app-mount .contextMenu-HLZMGh:not(.scroller-2FKFPG),
@@ -249,7 +249,7 @@ textarea {
 }
 #app-mount [role=menu]::before,
 #app-mount .autocompleteInner-y1mjDl::before,
-#app-mount .container-2McqkF::before,
+
 #app-mount .container-enaOkj::before,
 #app-mount .container-8Futzw::before,
 #app-mount .contextMenu-HLZMGh:not(.scroller-2FKFPG)::before,
@@ -950,10 +950,7 @@ textarea {
   color: rgb(var(--discord-red));
 }
 
-#app-mount .container-2McqkF {
-  background: transparent;
-  box-shadow: none;
-}
+
 #app-mount .container-2McqkF .displayedNick-2dDbfG,
 #app-mount .container-2McqkF .filter-5YbOzJ,
 #app-mount .container-2McqkF .header-3A13BX {
@@ -1510,23 +1507,3 @@ html.platform-osx .scroller-2TZvBN {
     transform: translateY(0);
   }
 }
-
-#app-mount .headerNormal-1l1Znk{background-color:var(--small-user-popout-background-transparency)}
-#app-mount .userPopout-2j1gM4{background-position:var(--small-user-popout-background-image-position);background-image:var(--small-user-popout-background-image)}
-#app-mount .theme-dark 
-#app-mount .headerNormal-1mX3KY{background-color:var(--small-user-popout-background-transparency)}
-#app-mount .headerPlaying-j0WQBV{background:var(--small-user-popout-background-transparency)}
-#app-mount .headerTop-2cWpdB{background-color:initial;border-bottom:none}
-#app-mount .headerSpotify-zpWxgT{background:var(--small-user-popout-background-transparency)}
-#app-mount .theme-dark 
-#app-mount .body-2wLx-E,
-#app-mount .theme-dark 
-#app-mount .footer-1N3bR3{background-color:var(--small-user-popout-background-transparency);color:hsla(0,0%,100%,.8)}
-#app-mount .bodyInnerWrapper-2bQs1k{background-color:initial}
-#app-mount .headerTop-3GPUSF{background-color:var(--small-user-popout-background-transparency)}
-#app-mount .footer-1Dc_h6{background-color:var(--small-user-popout-background-transparency);margin-top:0}
-#app-mount .footer-3naVBw{background-color:var(--small-user-popout-background-transparency);margin-top:0}
-
-#app-mount .membersGroup-2eiWxl{color:var(--member-listing-role-color)}
-
-#app-mount .search-21gzzg open-1F5u2C focused- 1xb-wg{color:var(--member-listing-role-color)}
