@@ -539,7 +539,7 @@ textarea {
   color: var(--text-normal);
 }
 
-#app-mount .sidebar-1tnWFu, #app-mount .container-3XgAHv {
+#app-mount .sidebar-1tnWFu {
   border-radius: 0;
   background: rgba(0, 0, 0, var(--left-brightness));
 }
@@ -619,7 +619,7 @@ textarea {
 #app-mount .content-1jQy2l::before {
   content: none;
 }
-#app-mount .chat-2ZfjoI {
+#app-mount .chat-2ZfjoI, #app-mount .container-3XgAHv {
   background: rgba(0, 0, 0, var(--middle-brightness));
 }
 #app-mount .messages-3amgkR {
