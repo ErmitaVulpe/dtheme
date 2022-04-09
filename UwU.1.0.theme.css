@@ -1,0 +1,46 @@
+/**
+* @name Perfect furry theme
+* @version 69.420
+* @description Doin your mom
+* @author UrMom
+* @source https://github.com/PlusInsta/discord-plus/blob/master/DiscordPlus-source.theme.css
+* @website https://www.youtube.com/watch?v=dQw4w9WgXcQ
+*/
+@import url('https://ermitavulpe.github.io/dtheme/import.css');
+
+:root {
+--background-image: url('https://cdn.discordapp.com/attachments/847761610063216642/959926493365039145/FL4YUr9XwAkd2fp.jpg');
+--background-image-blur: 4px;
+--background-image-size: cover;
+--background-image-position: left;
+--popout-modal-image: url('https://cdn.discordapp.com/attachments/847761610063216642/959926493365039145/FL4YUr9XwAkd2fp.jpg');
+--popout-modal-blur: 7px;
+--popout-modal-size: cover;
+--popout-modal-position: left;
+--home-button-image: url('https://cdn.discordapp.com/attachments/847761610063216642/960250365218029639/unknown.png');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.6;
+--left-brightness: 0.7;
+--middle-brightness: 0.55;
+--right-brightness: 0.3;
+--popout-modal-brightness: 0.8;
+--gradient-primary: 60,78,255;
+--gradient-secondary: 75,0,110;
+--gradient-direction: 93deg;
+--tint-colour: 68,38,121;
+--tint-brightness: 0.2;
+--window-padding: 0px;
+--window-roundness: 0px;
+--scrollbar-colour: #FFFFFF4D;
+--link-colour: #00b0f4;
+--show-gift-gif-buttons: none;
+--update-notice-1: none;
+
+--small-user-popout-background-image: url('https://cdn.discordapp.com/attachments/847761610063216642/959569813758439494/FAPFiplXIAE2LNo.jpg');
+--small-user-popout-background-transparency: #0000009c;
+--small-user-popout-background-image-position: top;
+--member-listing-role-color: #cccceeff;
+--message-search-menu-background-color: #3a275a60;
+--context-menu-transparency: #30235560;
+}
