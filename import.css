@@ -1,3 +1,5 @@
+@import url('https://ermitavulpe.github.io/dtheme/import2.css');
+
 :root {
   --TB-top: calc(var(--server-container) + var(--window-padding));
   --TB-tr-roundness: var(--window-roundness);
