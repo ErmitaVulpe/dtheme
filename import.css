@@ -619,7 +619,7 @@ textarea {
 #app-mount .content-1jQy2l::before {
   content: none;
 }
-#app-mount .chat-2ZfjoI, #app-mount .container-3XgAHv {
+#app-mount .chat-2ZfjoI {
   background: rgba(0, 0, 0, var(--middle-brightness));
 }
 #app-mount .messages-3amgkR {
