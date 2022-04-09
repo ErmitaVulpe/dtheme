@@ -748,7 +748,7 @@ textarea {
   background: rgb(0, 0, 0, var(--middle-brightness));
 }
 
-#app-mount .container-2o3qEW {
+#app-mount .container-2o3qEW, #app-mount .container-3XgAHv {
   background-color: rgba(0, 0, 0, var(--right-brightness));
 }
 #app-mount .members-3WRCEx {
