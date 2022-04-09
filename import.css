@@ -539,7 +539,7 @@ textarea {
   color: var(--text-normal);
 }
 
-#app-mount .sidebar-1tnWFu {
+#app-mount .sidebar-1tnWFu, #app-mount .container-3XgAHv {
   border-radius: 0;
   background: rgba(0, 0, 0, var(--left-brightness));
 }
@@ -748,7 +748,7 @@ textarea {
   background: rgb(0, 0, 0, var(--middle-brightness));
 }
 
-#app-mount .container-2o3qEW, #app-mount .container-3XgAHv {
+#app-mount .container-2o3qEW {
   background-color: rgba(0, 0, 0, var(--right-brightness));
 }
 #app-mount .members-3WRCEx {
